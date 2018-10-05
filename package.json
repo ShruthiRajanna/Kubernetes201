@@ -1,0 +1,20 @@
+{
+  "name": "mysql-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.16.0",
+    "express": "^4.14.1",
+    "swagger-jsdoc": "^1.8.2",
+    "swagger-ui-express": "^1.0.2"
+  },
+  "devDependencies": {},
+  "description": ""
+}
