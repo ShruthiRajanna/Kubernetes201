@@ -1,5 +1,8 @@
 // app.js
 const mysql = require('mysql');
+var logger = require('morgan');
+//  winston = require('./config/winston');
+// app.use(morgan('combined', { stream: winston.stream }));
 
 
 // First you need to create a connection to the db
